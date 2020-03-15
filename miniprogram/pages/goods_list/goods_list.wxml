@@ -1,0 +1,5 @@
+    <!-- 搜索框 开始 -->
+    <SearchInput></SearchInput>
+    <!-- 搜索框 结束 -->
+    <!-- 监听自定义事件 -->
+    <Tabs tabs="{{tabs}}" bindTabsItemChange="handleTabsItemChange"></Tabs>
